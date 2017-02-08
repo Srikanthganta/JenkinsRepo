@@ -36,7 +36,7 @@ dependencies {
 }
 
 task hello() <<{
-println 'Hello World'
+println 'Hello World Jenkins'
 }
 
 
