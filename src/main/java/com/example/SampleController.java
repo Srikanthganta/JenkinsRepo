@@ -15,7 +15,7 @@ public class SampleController {
 	
 	@RequestMapping("/")
     public String index() {
-        return "Greetings from Spring Boot!";
+        return "Welcome Greetings from Spring Boot!";
     }
 	
 	@RequestMapping("/send")
